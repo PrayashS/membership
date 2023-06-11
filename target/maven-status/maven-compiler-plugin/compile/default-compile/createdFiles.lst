@@ -1,0 +1,5 @@
+com\example\membership\util\ValidationUtils.class
+com\mycompany\membershipfeecalculator\MembershipFeeCalculator.class
+com\example\membership\MembershipFeeCalculatorApp.class
+com\example\membership\controller\MembershipController.class
+com\example\membership\model\Member.class
